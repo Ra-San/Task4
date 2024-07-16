@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: black;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 20px;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 15px;
+    color: gray;
+}
+
+.bigtext {
+    text-align: center;
+    padding: 100px 20px;
+}
+.bigtext h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.bigtext p {
+    font-size: 20px;
+    margin-bottom: 40px;
+    font-family: Arial, monospace;
+    color:gray;
+}
+
+.tombol {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+button {
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.demo {
+    background-color: green;
+    color: white;
+}
+
+.signup {
+    background-color: grey;
+    color: white;
+}
+
+body {
+    background-image: url(https://images3.alphacoders.com/134/1347726.png);
+    background-color: black;
+}
+
